@@ -45,4 +45,8 @@ $ nyan translate bf test.bf -d dist/test.nyan
 ## 공식 확장 패키지
 현재 냥랭이 공식적으로 지원하는 냥랭 확장 패키지는 다음과 같습니다.
 
-+ `nyan-ext-translate` - 다른 언어에서 냥랭으로 번역해 주는 프로그램
++ [nyan-ext-translate](https://github.com/nyanlang/nyan-ext-translate) - 다른 언어에서 냥랭으로 번역해 주는 프로그램
+
+# 냥랭 개발환경
+냥랭은 Visual Studio Code 확장 프로그램을 통해 언어 확장 기능을 지원합니다.  
+[여기](https://marketplace.visualstudio.com/items?itemName=ParkShinWoo.nyanlang-language)에서 Visual Studio Code 전용 확장 프로그램을 만나보세요.
