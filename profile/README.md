@@ -1,5 +1,5 @@
 <p align="center">
-<img width="500" height="500" src="https://user-images.githubusercontent.com/61446372/228822639-f126e6a3-5bcb-4e04-80ed-1cb6325314bf.png" />
+<img width="300" height="300" src="https://user-images.githubusercontent.com/61446372/228822639-f126e6a3-5bcb-4e04-80ed-1cb6325314bf.png" />
 </p>
 
 <h1 align="center">냥랭</h1>
