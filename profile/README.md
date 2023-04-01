@@ -8,7 +8,7 @@
 냥렝은 2023년에 Brainfxxk으로부터 파생되어, 세상에서 가장 귀여운 언어를 목표로 작업중에 있습니다.  
 </p>
 <p align="center">
-<a href="https://nyan.sserve.work">공식 웹사이트</a>
+<a href="https://nyanlang.org">공식 웹사이트</a>
 </p>
 
 # 설치
